@@ -1,15 +1,15 @@
 # Setting up some parameters for your trip
 
 	Reader.add({
-		name: {type: Name},
-		origin: {type: String},
-		email: {type: Email},
-		gender: {type: Select},
-		dateofbirth: {type: Date}
-		type: {type: Select, options: 'buyer,reader', default: 'buyer'},
-		employment: {type: Select, options: 'employee,client,boss,parents,owner,unemployed', default: 'unemployed'},
-		engagement: {type: Select, options: 'hands,memory,extensions', default: 'hands'},
-		tripStartDate: {type: Date, default: Date.now()}
+	name: {type: Name},
+	origin: {type: String},
+	email: {type: Email},
+	gender: {type: Select},
+	dateofbirth: {type: Date}
+	type: {type: Select, options: 'buyer,reader', default: 'buyer'},
+	employment: {type: Select, options: 'employee,client,boss,parents,owner,unemployed', default: 'unemployed'},
+	engagement: {type: Select, options: 'hands,memory,extensions', default: 'hands'},
+	tripStartDate: {type: Date, default: Date.now()}
 	});
 
 
