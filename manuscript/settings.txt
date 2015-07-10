@@ -1,16 +1,16 @@
-Reader.add({
-	name: { type: Types.Name, required: true, index: true },
-	origin: { type: Types.String, required: true, index: true },
-	email: { type: Types.Email, initial: true, required: true, index: true },
-	gender: { type: Types.Select, options: 'male,female,neutral', default: 'neutral', index: true },
-	dateofbirth: { type: Types.Date, initial: true }
-	type: { type: Types.Select, options: 'buyer,reader', default: 'buyer' },
-	employment: { type: Types.Select, options: 'employee,client,boss,parents,owner,unemployed', default: 'unemployed' },
-	engagement: { type: Types.Select, options: 'hands,memory'},
-	user: { type: Types.Relationship, ref: 'User', index: true },
-	publishedDate: { type: Types.Date, index: true },
-});
+# Setting up some parameters for your trip
 
+	Reader.add({
+		name: { type: Types.Name, required: true, index: true },
+		origin: { type: Types.String, required: true, index: true },
+		email: { type: Types.Email, initial: true, required: true, index: true },
+		gender: { type: Types.Select, options: 'male,female,neutral', default: 'neutral', index: true },
+		dateofbirth: { type: Types.Date, initial: true }
+		type: { type: Types.Select, options: 'buyer,reader', default: 'buyer' },
+		employment: { type: Types.Select, options: 'employee,client,boss,parents,owner,unemployed', default: 'unemployed' },
+		engagement: { type: Types.Select, options: 'hands,memory'},
+		user: { type: Types.Relationship, ref: 'User', index: true },
+		publishedDate: { type: Types.Date, index: true },
+	});
 
-# Setting environments based on user input here
 
