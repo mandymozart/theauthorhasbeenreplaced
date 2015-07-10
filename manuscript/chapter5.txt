@@ -6,7 +6,7 @@ It is 12:30 and {{the author}} wonders what might be the reason for which {{he]s
 
 It is 12:45. Still {{he]she|it}} is wondering what makes them so self-assured. In a way there is probably 200000 souls like them in this city that have the same experience, but why in god's name did they choose to to stay with {{him|her|it}}? They continue preaching free choice, yet all choose the same something.
 
-	"What role am I playing right now?"
+> "What role am I playing right now?"
 
 {{The author}} stops his daily routine, at this very moment, goes deep inside hiimself and is analyzing what {{he]she|it}} is - where {{he]she|it}} is.
 
@@ -15,4 +15,4 @@ I am sitting at a Jobcenter, trying to find help to get out of programming. If t
 
 {{The author}} waits another 15 minutes gazing at those immigrants, socially disabled and kicked out of society creatures around, takes {{his|her|its}} waiting ticket, kicks it in the trash bin and head's out of this god forsaken human dump ...
 
-<img=shift-logo>
+![](images/shift-logo.png)
