@@ -23,7 +23,7 @@ The prependix is describing some of the initial Ω, {{the author}} had on his mi
 ist, wenn man über die Soundqualität der entscheiden darf.
 Wachstum ist, wenn einer {{mehr|weniger}} sich verkleiden als der andere {{will|hat|soll|kann|braucht|darf}}.
 Notstand ist, {{was|wenn}} man {{nicht|nichts}} {{will|hat|soll|kann|braucht|darf}}. // mixin für modal verben
-Die Zukunft ist {{ungewiß|Schicksal|Offenbarung|in fünf Jahren}}! Eure Zukunft, {{ihrer|deine|wesen|eure|fremde|unserere|seine|meine|faule|viele}} Kinder!
+Die Zukunft ist {{ungewiß|Schicksal|Offenbarung|in fünf Jahren}}! Eure Zukunft, {{ihrer|deine|wesen|eure|fremde| unserere|seine|meine|faule|viele}} Kinder!
 
 
 ## Der Tunnel // translate or not?
