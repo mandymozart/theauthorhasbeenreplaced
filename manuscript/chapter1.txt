@@ -6,18 +6,9 @@ by
 
 A generative trip love story
 
-# Set environments for specified reader
-	{"settings":[
-		{},
-		{}
-
-		]
-	}
 
 
-
-
-### Prependix - Basel 2013
+# Prependix - Basel 2013
 
 
 It's August, a lovely hot summer day. {{The author}} quits his job as a frontend-developer for a online language school due to moral concerns about the purpose and usefulness of the enterprise and the methods of work. In the following weeks he has about 6000,00 EUR of dirty money left. {{He|She|It}} is invited to Basel for an Arte exhibit and live streaming show, starting point of a trip that is going to last for more than a year and takes {{the author}} around the world and other universes, times and moral grounds.
@@ -27,7 +18,7 @@ There is only one rule: Take any trip offered or possible, if others gone there 
 The prependix is describing some of the initial Ω, {{the author}} had on his mind when {{he|she|it}} decided subconsciously to embark on this journey.
 
 
-#### Politische Teilhabe
+## Politische Teilhabe
 
 ist, wenn man über die Soundqualität der entscheiden darf.
 Wachstum ist, wenn einer {{mehr|weniger}} sich verkleiden als der andere {{will|hat|soll|kann|braucht|darf}}.
@@ -35,7 +26,7 @@ Notstand ist, {{was|wenn}} man {{nicht|nichts}} {{will|hat|soll|kann|braucht|dar
 Die Zukunft ist {{ungewiß|Schicksal|Offenbarung|in fünf Jahren}}! Eure Zukunft, {{ihrer|deine|wesen|eure|fremde|unserere|seine|meine|faule|viele}} Kinder!
 
 
-#### Der Tunnel // translate or not?
+## Der Tunnel // translate or not?
 
 Überlegungen zum Problem der Schaffung von Übergangszonen
 
@@ -56,17 +47,17 @@ Die mir zuwiedere Gilde der Marketing und Datenanalysten setz uns verstärkt sol
 Die Tunnel werden intelligent. Sie handeln um und mit unseren Gedanken, verändern ihre Gestalt und werden ambivalenter, jedoch sind diese noch solche die wir uns selber ersteinmal geschaffen haben. 
 
 
-#### Sprachcodierung
+## Sprachcodierung
 
 Das chemische Latein ist der Versuch Sprache zu codieren, die Zufälle auszuschalten.
 
 
-#### Argumentationstechniken am Beispiel des Martin Downey Jr. Films
+## Argumentationstechniken am Beispiel des Martin Downey Jr. Films
 
 Es ist schwer einen gefühlt gesunden harmonischen Standpunkt zu vertreten, da alle Positionen von der Politik belegt sind. Wörter wie links, rechts, mitte, vorn und hinten bekommen eine Tragweite, die es unmöglich macht nicht durch reine Verbalisierung zerlegt bzw. invertiert zu werden.
 
 
-#### Alternative titel considerations
+## Alternative titel considerations
 
 instable casual reasoning
 preset theories
