@@ -11,7 +11,7 @@ A generative trip love story
 # Prependix - Basel 2013
 
 
-It's August, a lovely hot summer day. {{The author}} quits his job as a frontend-developer for a online language school due to moral concerns about the purpose and usefulness of the enterprise and the methods of work. In the following weeks he has about 6000,00 EUR of dirty money left. {{He|She|It}} is invited to Basel for an Arte exhibit and live streaming show, starting point of a trip that is going to last for more than a year and takes {{the author}} around the world and other universes, times and moral grounds.
+It's August, a lovely hot summer day. {{The author}} quits his job as a frontend-developer for a online language school due to moral concerns about the purpose and usefulness of the enterprise and the methods of work. In the following weeks {{he|she|it}} has about 6000,00 EUR of dirty money left. {{He|She|It}} is invited to Basel for an Arte exhibit and live streaming show, starting point of a trip that is going to last for more than a year and takes {{the author}} around the world and other universes, times and moral grounds.
 
 There is only one rule: Take any trip offered or possible, if others gone there before!
 
